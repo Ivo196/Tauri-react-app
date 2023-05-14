@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Tauri, React and Typescript in Vite.
 
-It is necessary to create a folder with the name ¨fileTauri¨.
+It is necessary to create a folder with the name ¨tauriFile¨ into the desktop.
 
 ## Recommended IDE Setup
 
